@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D3C3CB07-5E7E-49E9-A281-3840796C68FD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CRL</RootNamespace>
+    <AssemblyName>CRL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\CRL.xml</DocumentationFile>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CoreHelper">
+      <HintPath>..\ref\CoreHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ref\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attribute\FieldIndexType.cs" />
+    <Compile Include="Attribute\FieldType.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\Banks.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\Bill99Company.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\Bill99Util.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\ChargeNotify.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\ChargeRequest.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\GetDynNumContent\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\GetDynNumContent\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\MessageBase.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\PCIBase.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\PciDataContent\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\PciDataContent\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\PciQueryContent\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\PciQueryContent\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\TxnMsgContent\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\Bill99\TxnMsgContent\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\CancelTender\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\CancelTender\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Charge\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Charge\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\ChinaPayUtil.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\ChinaPayCompany.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\CreateAccount\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\CreateAccount\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\CreateCompanyAccount\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\CreateCompanyAccount\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Loan\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Loan\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Repay\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Repay\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\RequestBase.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\ResponseBase.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\RSA.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Tender\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\Tender\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\TradeQuery\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\TradeQuery\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\UserBalanceQuery\Response.cs" />
+    <Compile Include="Business\OnlinePay\Company\ChinaPay\UserBalanceQuery\Request.cs" />
+    <Compile Include="Business\OnlinePay\Company\Chinapnr\ChargeResponse.cs" />
+    <Compile Include="Business\OnlinePay\Company\Chinapnr\ChargeSubmit.cs" />
+    <Compile Include="Business\OnlinePay\Company\Chinapnr\ChinapnrCompany.cs" />
+    <Compile Include="Business\OnlinePay\Company\Chinapnr\MessageBase.cs" />
+    <Compile Include="Business\OnlinePay\Company\FieldIndexAttribute.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\LianlianCompany.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\LianlianService.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Md5Algorithm.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\BankCardQuery.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\BankCardQueryResponse.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\BindCardQuery.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\BindCardQueryResponse.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\MessageBase.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\WapAuth\PayNotify.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\WapAuth\PayRequest.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\WapAuth\PayReturn.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\Web\PayNotify.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\OrderQuery.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\OrderQueryResponse.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\Web\PayRequest.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\Message\Web\PayReturn.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\PartnerConfig.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\ResourceConfig.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\RSA.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\ServerURLConfig.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\SignTypeEnum.cs" />
+    <Compile Include="Business\OnlinePay\Company\Lianlian\YinTongUtil.cs" />
+    <Compile Include="Business\Person\SmsSendRecord.cs" />
+    <Compile Include="Business\RoleAuthorize\Department.cs" />
+    <Compile Include="Business\RoleAuthorize\DepartmentBusiness.cs" />
+    <Compile Include="Business\TradeType\TradeDirection.cs" />
+    <Compile Include="Business\TradeType\TradeType.cs" />
+    <Compile Include="Business\Person\MobileVerifyData.cs" />
+    <Compile Include="Business\Person\UserMobileVerify.cs" />
+    <Compile Include="Business\TradeType\TradeTypeManage.cs" />
+    <Compile Include="CacheServerSetting.cs" />
+    <Compile Include="CacheServer\CacheClientProxy.cs" />
+    <Compile Include="CacheServer\CacheService.cs" />
+    <Compile Include="CacheServer\Command.cs" />
+    <Compile Include="CacheServer\TcpPoolClient.cs" />
+    <Compile Include="CacheServer\TcpServer.cs" />
+    <Compile Include="CacheServer\ResultData.cs" />
+    <Compile Include="CallBackDataReader.cs" />
+    <Compile Include="DBAdapter\DBAdapterBase.cs" />
+    <Compile Include="DBAdapter\MSSQLDBAdapter.cs" />
+    <Compile Include="DBAdapter\MySQLDBAdapter.cs" />
+    <Compile Include="DBAdapter\ORACLEDBAdapter.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="BaseProvider.cs" />
+    <Compile Include="Business\Account\AccountBusiness.cs" />
+    <Compile Include="Business\Account\Model\AccountDetail.cs" />
+    <Compile Include="Business\Account\Model\LockRecord.cs" />
+    <Compile Include="Business\Account\Model\Transaction.cs" />
+    <Compile Include="Business\Account\Model\OperateType.cs" />
+    <Compile Include="Business\Account\TransactionBusiness.cs" />
+    <Compile Include="Business\Account\TransactionType.cs" />
+    <Compile Include="Business\Advert\AdvertBusiness.cs" />
+    <Compile Include="Business\Advert\Advert.cs" />
+    <Compile Include="Business\Area\AreaAction.cs" />
+    <Compile Include="Business\Area\Area.cs" />
+    <Compile Include="Business\Article\ArticleBusiness.cs" />
+    <Compile Include="Business\Article\Article.cs" />
+    <Compile Include="Business\Category\CategoryBusiness.cs" />
+    <Compile Include="Business\Category\Category.cs" />
+    <Compile Include="Business\Comment\CommentBusiness.cs" />
+    <Compile Include="Business\Comment\Comment.cs" />
+    <Compile Include="Business\DicConfig\DicConfigBusiness.cs" />
+    <Compile Include="Business\DicConfig\DicConfig.cs" />
+    <Compile Include="Business\FavoriteProduct\FavoriteBusiness.cs" />
+    <Compile Include="Business\FavoriteProduct\FavoriteProduct.cs" />
+    <Compile Include="Business\Freight\DeliverType.cs" />
+    <Compile Include="Business\Freight\FreightBusiness.cs" />
+    <Compile Include="Business\Freight\Freight.cs" />
+    <Compile Include="Business\OnlinePay\ChargeConfig.cs" />
+    <Compile Include="Business\OnlinePay\ChargeService.cs" />
+    <Compile Include="Business\OnlinePay\CompanyType.cs" />
+    <Compile Include="Business\OnlinePay\Company\Alipay\AliPay.cs" />
+    <Compile Include="Business\OnlinePay\Company\Alipay\AlipayCompany.cs" />
+    <Compile Include="Business\OnlinePay\Company\Alipay\AlipayCore.cs" />
+    <Compile Include="Business\OnlinePay\Company\Alipay\AlipayMD5.cs" />
+    <Compile Include="Business\OnlinePay\Company\Alipay\AlipayNotify.cs" />
+    <Compile Include="Business\OnlinePay\Company\Alipay\AlipaySubmit.cs" />
+    <Compile Include="Business\OnlinePay\Company\Alipay\Config.cs" />
+    <Compile Include="Business\OnlinePay\Company\CompanyBase.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\TenpayCompany.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\tenpay\CheckRequestHandler.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\tenpay\ClientResponseHandler.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\tenpay\MD5Util.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\tenpay\RequestHandler.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\tenpay\ResponseHandler.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\tenpay\TenpayHttpClient.cs" />
+    <Compile Include="Business\OnlinePay\Company\Tenpay\tenpay\TenpayUtil.cs" />
+    <Compile Include="Business\OnlinePay\PayHistory.cs" />
+    <Compile Include="Business\OnlinePay\OnlinePayBusiness.cs" />
+    <Compile Include="Business\OnlinePay\OrderState.cs" />
+    <Compile Include="Business\OnlinePay\OrderType.cs" />
+    <Compile Include="Business\Order\Order.cs" />
+    <Compile Include="Business\Order\OrderBusiness.cs" />
+    <Compile Include="Business\Order\OrderStatus.cs" />
+    <Compile Include="Business\Order\ProductOrder\OrderDetail.cs" />
+    <Compile Include="Business\Order\ProductOrder\ProductOrder.cs" />
+    <Compile Include="Business\Order\ProductOrder\ProductOrderBusiness.cs" />
+    <Compile Include="Business\Order\ProductOrder\ProductOrderStatus.cs" />
+    <Compile Include="Business\Person\IMember.cs" />
+    <Compile Include="Business\Person\Person.cs" />
+    <Compile Include="Business\Person\ShopSupplier.cs" />
+    <Compile Include="Business\Person\PersonBusiness.cs" />
+    <Compile Include="Business\Product\Product.cs" />
+    <Compile Include="Business\Product\ProductBase.cs" />
+    <Compile Include="Business\Product\ProductBusiness.cs" />
+    <Compile Include="Business\Product\ProductStatus.cs" />
+    <Compile Include="Business\Property\PropertyName.cs" />
+    <Compile Include="Business\Property\PropertyValue.cs" />
+    <Compile Include="Business\Property\PropertyBusiness.cs" />
+    <Compile Include="Business\Property\PropertyType.cs" />
+    <Compile Include="Business\ReceiveAddress\AddressBusiness.cs" />
+    <Compile Include="Business\ReceiveAddress\Address.cs" />
+    <Compile Include="Business\RoleAuthorize\AccessControl.cs" />
+    <Compile Include="Business\RoleAuthorize\AccessControlBusiness.cs" />
+    <Compile Include="Business\RoleAuthorize\Employee.cs" />
+    <Compile Include="Business\RoleAuthorize\EmployeeBusiness.cs" />
+    <Compile Include="Business\Person\LoginLog.cs" />
+    <Compile Include="Business\RoleAuthorize\Menu.cs" />
+    <Compile Include="Business\RoleAuthorize\MenuBusiness.cs" />
+    <Compile Include="Business\RoleAuthorize\MenuOperation.cs" />
+    <Compile Include="Business\RoleAuthorize\Role.cs" />
+    <Compile Include="Business\RoleAuthorize\RoleBusiness.cs" />
+    <Compile Include="Business\RoleAuthorize\RoleType.cs" />
+    <Compile Include="Business\RoleAuthorize\SystemType.cs" />
+    <Compile Include="Business\RoleAuthorize\SystemTypeBusiness.cs" />
+    <Compile Include="Business\ShoppingCart\CartBusiness.cs" />
+    <Compile Include="Business\ShoppingCart\CartItem.cs" />
+    <Compile Include="Business\Stock\StockRecord.cs" />
+    <Compile Include="Business\Stock\Style.cs" />
+    <Compile Include="Business\Stock\StockRecordBusiness.cs" />
+    <Compile Include="Attribute\FieldAttribute.cs" />
+    <Compile Include="DBExtend\DBExtend.cs" />
+    <Compile Include="DBExtend\DBExtendAutoSp.cs" />
+    <Compile Include="DBExtend\DBExtendDelete.cs" />
+    <Compile Include="DBExtend\DBExtendInsert.cs" />
+    <Compile Include="DBExtend\DBExtendQuery.cs" />
+    <Compile Include="DBExtend\DBExtendUpdate.cs" />
+    <Compile Include="DBExtend\DynamicQuery.cs" />
+    <Compile Include="DBExtend\FunctionType.cs" />
+    <Compile Include="Dynamic\DynamicObject.cs" />
+    <Compile Include="Dynamic\DapperRowMetaObject.cs" />
+    <Compile Include="Dynamic\DynamicObjConvert.cs" />
+    <Compile Include="ExpressionJoin.cs" />
+    <Compile Include="IgnoreCaseDictionary.cs" />
+    <Compile Include="LambdaQuery\CRLExpression.cs" />
+    <Compile Include="LambdaQuery\CRLExpressionVisitor.cs" />
+    <Compile Include="LambdaQuery\Distinct.cs" />
+    <Compile Include="LambdaQuery\ExpressionVisitor.cs" />
+    <Compile Include="LambdaQuery\Extensions.cs" />
+    <Compile Include="LambdaQuery\Group.cs" />
+    <Compile Include="LambdaQuery\Join.cs" />
+    <Compile Include="LambdaQuery\JoinType.cs" />
+    <Compile Include="LambdaQuery\LambdaCreater.cs" />
+    <Compile Include="LambdaQuery\LambdaQuery.cs" />
+    <Compile Include="ExtensionMethod.cs" />
+    <Compile Include="IModelBase.cs" />
+    <Compile Include="LambdaQuery\MethodAnalyze.cs" />
+    <Compile Include="LambdaQuery\JoinExpressionVisitor.cs" />
+    <Compile Include="LambdaQuery\ParameterRebinder.cs" />
+    <Compile Include="MemoryDataCache.cs" />
+    <Compile Include="ObjectConvert.cs" />
+    <Compile Include="ParameCollection.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SettingConfig.cs" />
+    <Compile Include="Attribute\TableAttribute.cs" />
+    <Compile Include="SummaryAnalysis.cs" />
+    <Compile Include="ExistsTableCache.cs" />
+    <Compile Include="TypeCache.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\area.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Update.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

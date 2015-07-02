@@ -1,0 +1,26 @@
+15-05-06 08:31:36 48692  读取CoreConfig
+Url:http://localhost:56640/page/Cache2.aspx
+UrlReferrer:http://localhost:56640/page/Cache2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-06 08:32:36 86637  读取CoreConfig
+Url:http://localhost:56640/page/Cache2.aspx
+UrlReferrer:http://localhost:56640/page/Cache2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-06 14:02:22 61484  读取CoreConfig
+15-05-06 14:16:48 48466  读取CoreConfig
+Url:http://localhost:56640/page/Query1.aspx
+UrlReferrer:http://localhost:56640/page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-06 14:19:23 07176  读取CoreConfig
+Url:http://localhost:56640/page/Insert.aspx
+UrlReferrer:http://localhost:56640/page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-06 14:21:12 90253  读取CoreConfig
+Url:http://localhost:56640/page/CacheManage.aspx
+UrlReferrer:http://localhost:56640/page/Insert.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

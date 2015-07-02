@@ -1,0 +1,19 @@
+15-04-27 08:56:46 79627  读取CoreConfig
+15-04-27 09:10:50 97509  读取CoreConfig
+15-04-27 09:12:32 33723  读取CoreConfig
+15-04-27 09:42:18 96119  读取CoreConfig
+15-04-27 09:43:00 00759  读取CoreConfig
+15-04-27 09:57:02 59997  读取CoreConfig
+15-04-27 09:59:52 11045  读取CoreConfig
+15-04-27 10:07:39 22728  读取CoreConfig
+15-04-27 10:10:52 13135  读取CoreConfig
+15-04-27 10:32:19 90434  读取CoreConfig
+15-04-27 10:32:43 59591  读取CoreConfig
+15-04-27 11:10:34 65028  读取CoreConfig
+15-04-27 12:34:10 28298  读取CoreConfig
+15-04-27 13:51:13 05995  读取CoreConfig
+15-04-27 14:13:34 52314  读取CoreConfig
+Url:http://localhost:56640/page/Insert.aspx
+UrlReferrer:http://localhost:56640/page/Insert.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36

@@ -1,0 +1,57 @@
+15-04-23 12:43:22 53055  读取CoreConfig
+Url:http://localhost:56640/CRLExpressionTest.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-23 12:45:40 44193  读取CoreConfig
+Url:http://localhost:56640/CRLExpressionTest.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-23 12:48:31 75960  读取CoreConfig
+Url:http://localhost:56640/CRLExpressionTest.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-23 16:12:47 11313  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:18:17 91473  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:19:00 35151  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:22:32 51883  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:23:19 55513  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:23:44 36766  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:30:10 63142  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:31:01 41861  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:33:36 28347  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:34:55 63691  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:38:08 10566  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 16:38:43 44062  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 17:11:41 03436  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 17:41:22 01173  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1
+15-04-23 17:43:18 43949  读取CoreConfig
+Url:http://localhost:56640/page/CacheServer.ashx
+HostIP:::1

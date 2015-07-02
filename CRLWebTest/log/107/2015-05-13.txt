@@ -1,0 +1,50 @@
+15-05-13 10:07:10 68887  读取CoreConfig
+15-05-13 10:12:29 37891  读取CoreConfig
+15-05-13 10:16:18 66924  读取CoreConfig
+15-05-13 10:26:26 11228  读取CoreConfig
+15-05-13 10:32:17 84177  读取CoreConfig
+Url:http://localhost:56640/page/Query1.aspx
+UrlReferrer:http://localhost:56640/page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 10:56:42 84771  读取CoreConfig
+Url:http://localhost:56640/page/Query1.aspx
+UrlReferrer:http://localhost:56640/page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 10:59:39 56133  读取CoreConfig
+15-05-13 11:29:59 24132  读取CoreConfig
+Url:http://localhost:56640/page/CacheManage.aspx
+UrlReferrer:http://localhost:56640/
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 11:37:04 50376  读取CoreConfig
+15-05-13 15:47:21 20603  读取CoreConfig
+15-05-13 15:52:29 81740  读取CoreConfig
+15-05-13 16:18:59 10105  读取CoreConfig
+15-05-13 16:18:59 10105  读取CoreConfig
+15-05-13 17:04:16 16318  读取CoreConfig
+Url:http://localhost:56640/page/CacheManage.aspx
+UrlReferrer:http://localhost:56640/page/Cache2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 17:12:54 86612  读取CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 17:13:28 24828  读取CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 17:13:55 14345  读取CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 17:14:30 01113  读取CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

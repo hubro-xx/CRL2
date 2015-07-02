@@ -1,0 +1,5 @@
+15-05-11 11:42:00 62571  ∂¡»°CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

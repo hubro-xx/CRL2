@@ -1,0 +1,40 @@
+15-04-22 11:08:31 05560  读取CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-22 11:14:01 64074  读取CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-22 11:17:43 81989  读取CoreConfig
+Url:http://localhost:56640/Page/Query1.aspx
+UrlReferrer:http://localhost:56640/Page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-22 11:18:11 19840  读取CoreConfig
+Url:http://localhost:56640/Page/Query1.aspx
+UrlReferrer:http://localhost:56640/Page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-22 11:40:57 40676  读取CoreConfig
+Url:http://localhost:56640/Page/Query1.aspx
+UrlReferrer:http://localhost:56640/Page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-22 11:49:14 42136  读取CoreConfig
+Url:http://localhost:56640/Page/Query1.aspx
+UrlReferrer:http://localhost:56640/Page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-22 11:55:58 36723  读取CoreConfig
+Url:http://localhost:56640/Page/Query1.aspx
+UrlReferrer:http://localhost:56640/Page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-22 13:11:59 91715  读取CoreConfig
+Url:http://localhost:56640/Page/Query1.aspx
+UrlReferrer:http://localhost:56640/Page/Query1.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36

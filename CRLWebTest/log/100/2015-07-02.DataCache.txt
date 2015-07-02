@@ -1,0 +1,5 @@
+15-07-02 14:22:35 44016  更新查询 2F17F91A93192810CCD4AD50CF3BC2D5 用时:0.402023秒
+Url:http://localhost:56640/page/CacheManage.aspx
+UrlReferrer:http://localhost:56640/page/Cache2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

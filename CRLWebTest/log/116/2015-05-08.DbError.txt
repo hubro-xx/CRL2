@@ -1,0 +1,14 @@
+15-05-08 11:06:50 16298  列名 '0' 无效。
+类型:Text 语句:select COUNT([0]) from ProductData with(nolock) where (Id>@parame0) 参数:
+[Input] parame0:0
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-08 11:07:04 08528  列名 '0' 无效。
+类型:Text 语句:select COUNT([0]) from ProductData with(nolock) where (Id>@parame0) 参数:
+[Input] parame0:0
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

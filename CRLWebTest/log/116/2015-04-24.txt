@@ -1,0 +1,19 @@
+15-04-24 09:40:31 99112  读取CoreConfig
+15-04-24 09:42:08 54140  读取CoreConfig
+15-04-24 10:02:10 61747  读取CoreConfig
+15-04-24 10:10:38 92341  读取CoreConfig
+15-04-24 10:35:41 13943  读取CoreConfig
+15-04-24 11:09:23 27460  读取CoreConfig
+15-04-24 11:17:12 74720  读取CoreConfig
+15-04-24 11:42:12 30495  读取CoreConfig
+15-04-24 11:58:54 37332  读取CoreConfig
+15-04-24 12:01:27 11321  读取CoreConfig
+15-04-24 12:30:41 01964  读取CoreConfig
+15-04-24 16:05:33 80519  读取CoreConfig
+15-04-24 17:41:15 65087  读取CoreConfig
+15-04-24 17:56:12 33613  读取CoreConfig
+Url:http://localhost:56640/page/Query3.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-24 18:12:01 82026  读取CoreConfig

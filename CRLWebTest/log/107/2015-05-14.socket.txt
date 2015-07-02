@@ -1,0 +1,13 @@
+15-05-14 17:50:34 95700  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 95700  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 95700  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 95700  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 95800  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 96300  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 96400  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 96400  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 96400  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 96500  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 96500  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 96500  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。
+15-05-14 17:50:34 98400  CRL.CacheServer.TcpServer	处理数据出错：未将对象引用设置到对象的实例。

@@ -1,0 +1,16 @@
+15-05-06 14:02:22 64604  更新查询 9F316EE87FFB861D9092079C8BDDEEEA 用时:0.0156秒
+15-05-06 14:19:40 25425  更新查询 9F316EE87FFB861D9092079C8BDDEEEA 用时:0.0390022秒
+Url:http://localhost:56640/page/CacheManage.aspx
+UrlReferrer:http://localhost:56640/page/Insert.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-06 14:19:44 19209  更新查询 9F316EE87FFB861D9092079C8BDDEEEA 用时:0.0586025秒
+Url:http://localhost:56640/page/CacheManage.aspx?type=update&key=9F316EE87FFB861D9092079C8BDDEEEA
+UrlReferrer:http://localhost:56640/page/CacheManage.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-06 14:21:13 30255  更新查询 E61EF6CCFBDDD19FA6F4AC830E4FD0E0 用时:0.3890223秒
+Url:http://localhost:56640/page/CacheManage.aspx
+UrlReferrer:http://localhost:56640/page/Insert.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

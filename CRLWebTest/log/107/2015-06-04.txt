@@ -1,0 +1,10 @@
+15-06-04 11:37:43 84351  ∂¡»°CoreConfig
+Url:http://localhost:56640/Page/SqlTransaction.aspx
+UrlReferrer:http://localhost:56640/Page/SqlTransaction.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-06-04 11:38:27 59801  ∂¡»°CoreConfig
+Url:http://localhost:56640/Page/SqlTransaction.aspx
+UrlReferrer:http://localhost:56640/Page/SqlTransaction.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

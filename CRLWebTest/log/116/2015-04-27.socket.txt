@@ -1,0 +1,5 @@
+15-04-27 08:28:41 68160  CRL.CacheServer.TcpServer	处理数据出错：反序列化对象 属于类型 CRL.LambdaQuery.CRLQueryExpression 时出现错误。遇到意外字符“C”。
+15-04-27 08:29:54 92554  CRL.CacheServer.TcpServer	处理数据出错：反序列化对象 属于类型 CRL.LambdaQuery.CRLQueryExpression 时出现错误。遇到意外字符“C”。
+15-04-27 08:30:59 53090  CRL.CacheServer.TcpServer	处理数据出错：反序列化对象 属于类型 CRL.LambdaQuery.CRLQueryExpression 时出现错误。遇到意外字符“C”。
+15-04-27 08:32:13 91803  CRL.CacheServer.TcpServer	处理数据出错：反序列化对象 属于类型 CRL.LambdaQuery.CRLQueryExpression 时出现错误。遇到意外字符“C”。
+15-04-27 08:33:37 59922  CRL.CacheServer.TcpServer	处理数据出错：反序列化对象 属于类型 CRL.LambdaQuery.CRLQueryExpression 时出现错误。遇到意外字符“C”。

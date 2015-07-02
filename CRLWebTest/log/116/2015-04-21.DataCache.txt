@@ -1,0 +1,5 @@
+15-04-21 15:05:29 30789  更新查询 7AE886D7FCEF356858A3B34EA695D142 用时:0.0200011秒
+Url:http://localhost:56640/page/CacheManage.aspx
+UrlReferrer:http://localhost:56640/page/AutoSp.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36

@@ -1,0 +1,15 @@
+15-04-21 14:58:44 95499  ∂¡»°CoreConfig
+Url:http://localhost:56640/page/Query3.aspx
+UrlReferrer:http://localhost:56640/
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-21 17:32:35 90718  ∂¡»°CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+15-04-21 17:34:01 28342  ∂¡»°CoreConfig
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36

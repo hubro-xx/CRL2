@@ -1,0 +1,20 @@
+15-05-12 17:58:50 72978  更新查询 E61EF6CCFBDDD19FA6F4AC830E4FD0E0 用时:0.4140236秒
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-12 18:00:32 45512  更新查询 E61EF6CCFBDDD19FA6F4AC830E4FD0E0 用时:0.3830219秒
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-12 18:01:56 85810  更新查询 E61EF6CCFBDDD19FA6F4AC830E4FD0E0 用时:0.4090234秒
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-12 18:02:58 95399  更新查询 E61EF6CCFBDDD19FA6F4AC830E4FD0E0 用时:0.5090291秒
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

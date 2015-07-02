@@ -1,0 +1,20 @@
+15-05-12 17:58:50 30175  读取CoreConfig
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-12 18:00:32 05909  读取CoreConfig
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-12 18:01:56 43508  读取CoreConfig
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-12 18:02:58 43196  读取CoreConfig
+Url:http://localhost:56640/page/Cache.aspx
+UrlReferrer:http://localhost:56640/page/Cache.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36

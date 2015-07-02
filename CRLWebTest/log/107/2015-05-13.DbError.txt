@@ -1,0 +1,24 @@
+15-05-13 17:12:54 90712  关键字 'distinct' 附近有语法错误。
+关键字 'with' 附近有语法错误。如果此语句是公用表表达式、xmlnamespaces 子句或者更改跟踪上下文子句，那么前一个语句必须以分号结尾。
+类型:Text 语句:select top 10  distinct t1.[ProductName],t1.[BarCode]  from  ProductData t1  with(nolock)    where (t1.Id>@parame0)  参数:
+[Input] parame0:0
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 17:13:04 94587  关键字 'distinct' 附近有语法错误。
+关键字 'with' 附近有语法错误。如果此语句是公用表表达式、xmlnamespaces 子句或者更改跟踪上下文子句，那么前一个语句必须以分号结尾。
+类型:Text 语句:select top 10  distinct t1.[ProductName],t1.[BarCode]  from  ProductData t1  with(nolock)    where (t1.Id>@parame0)  参数:
+[Input] parame0:0
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+15-05-13 17:13:28 35429  关键字 'distinct' 附近有语法错误。
+关键字 'with' 附近有语法错误。如果此语句是公用表表达式、xmlnamespaces 子句或者更改跟踪上下文子句，那么前一个语句必须以分号结尾。
+类型:Text 语句:select top 10  distinct t1.[ProductName],t1.[BarCode]  from  ProductData t1  with(nolock)    where (t1.Id>@parame0)  参数:
+[Input] parame0:0
+Url:http://localhost:56640/page/Query2.aspx
+UrlReferrer:http://localhost:56640/page/Query2.aspx
+HostIP:::1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
